@@ -1,0 +1,2 @@
+/Users/nz026920/Documents/android/week3/Intents/SourceFiles/Skeletons/FragmentsLab/app/build/intermediates/classes/debug
+/Users/nz026920/Documents/android/week3/Intents/SourceFiles/Skeletons/FragmentsLab/app/build/intermediates/pre-dexed/debug/robotium-solo-5.2.1-4c1ef283dd9401e4fb03e6a5aa05faac36e2b7a5.jar
